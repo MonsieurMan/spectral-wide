@@ -21,8 +21,13 @@ The theme currently uses colors from the material palette as they are colorful w
 - Javascript _(not started)_
 
 ## Roadmap
-- [ ] Typescript support
-- [ ] Pre-processor for easily generating theme with color variables
+- [ ] Typescript support.
+- [ ] Pre-processor for easily generating theme with a color palette.
+- [ ] Extension rating prompt and other little tricks.
 
 ## Contributing
-You can contribute by creating an issue to report inconstencies or new ideas, or with PR to fix them directly. :)
+You are welcome to file in an issue to report an inconsistency or a request. I will not implement features for languages that are not in my roadmap but you are also welcome to create pull request to fulfill them. :smile:
+
+### Tips and tricks
+You can use the `Developer: Inspect TM Scopes` command from the Command Palette `(Ctrl+Shift+P)` to inspect the scopes of a token at the cursor and to see which theming rule has been applied.  
+More information [there](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers).
