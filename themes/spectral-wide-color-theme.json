@@ -154,6 +154,13 @@
 			}
 		},
 		{
+			"name": "Function call",
+			"scope": "meta.function-call",
+			"settings": {
+				"foreground": "#c51162d2"
+			}
+		},
+		{
 			"scope": "entity.name.type",
 			"settings": {
 				"foreground": "#ffff00a1"
