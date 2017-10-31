@@ -1,0 +1,22 @@
+{
+    "name": "spectral-wide",
+    "displayName": "Spectral Wide",
+    "description": "Focus on what matters. Spectral Wide is a dark theme using a wide color palette to provide semantic with meaningful contrast.",
+    "version": "0.0.1",
+    "publisher": "monsieurman",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Spectral Wide",
+                "uiTheme": "vs-dark",
+                "path": "./themes/spectral-wide-color-theme.json"
+            }
+        ]
+    }
+}
