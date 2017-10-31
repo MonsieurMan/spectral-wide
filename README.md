@@ -16,7 +16,7 @@ The theme currently uses colors from the material palette as they are colorful w
 ## Languages supported
 - Typescript _(in progress)_
 - HTML _(not started)_
-- CSS _(not started)_
+- SCSS _(not started)_
 - Markdown _(not started)_
 - Javascript _(not started)_
 
