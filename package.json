@@ -1,9 +1,14 @@
 {
     "name": "spectral-wide",
     "displayName": "Spectral Wide",
-    "description": "Focus on what matters. Spectral Wide is a dark theme using a wide color palette to provide semantic with meaningful contrast.",
+    "description": "Focus on what you want.",
     "version": "0.0.1",
     "publisher": "monsieurman",
+    "license": "MIT",
+    "repository": {
+        "type": "github",
+        "url": "https://github.com/MonsieurMan/spectral-wide.git"
+    },
     "engines": {
         "vscode": "^1.17.0"
     },
