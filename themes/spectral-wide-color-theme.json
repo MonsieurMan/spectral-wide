@@ -163,6 +163,14 @@
 			}
 		},
 		{
+			"name": "Interface, class inheritance",
+			"scope": "entity.other.inherited-class",
+			"settings": {
+				"fontStyle": "italic bold underline",
+				"foreground": "#ffff00a1"
+			}
+		},
+		{
 			"scope": "meta.block",
 			"settings": {
 				"foreground": "#428e926e"
