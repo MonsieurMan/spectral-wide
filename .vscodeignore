@@ -1,2 +1,6 @@
+.vscode/**
+assets/**
+src/**
+.gitignore
+tsconfig.json
 *.vsix
-launch.json
